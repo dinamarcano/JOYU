@@ -2,7 +2,7 @@ import '../styles/global.css'
 import '../styles/landing.css'
 import { useNavigate } from 'react-router-dom'
 import logo from '../assets/logo.svg'
-import { BackgroundDecor } from '../components/BackgroundDesign'
+import { BackgroundDecor } from '../components/BackgroundDecor'
 
 export const Landing = () => {
   const navigate = useNavigate()

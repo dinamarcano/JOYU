@@ -20,9 +20,9 @@ body {
 
 .title {
   color: #262688;
-  font-size: 28px;
-  font-weight: 600;
-  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
 }
 
 .button {
@@ -38,5 +38,12 @@ body {
 
 .link {
   color: #262688;
-  margin-top: 15px;
+
+  text-align: center;
+  font-family: 'Fredoka', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  z-index: 10;
 }
